@@ -18,18 +18,18 @@ Note that the packages section will not always be up to date, so manual verifica
 Packages that will be installed:
 prep:
 ```bash
-	qt5-wayland qt5ct qt6-wayland qt6ct qt5-svg qt5-quickcontrols2 qt5-graphicaleffects gtk3 polkit-gnome pipewire wireplumber jq wl-clipboard cliphist python-requests pacman-contrib
+qt5-wayland qt5ct qt6-wayland qt6ct qt5-svg qt5-quickcontrols2 qt5-graphicaleffects gtk3 polkit-gnome pipewire wireplumber jq wl-clipboard cliphist python-requests pacman-contrib
 ```
 Nvidia:
 ```bash
-	linux-headers nvidia-dkms nvidia-settings libva libva-nvidia-driver-git
+linux-headers nvidia-dkms nvidia-settings libva libva-nvidia-driver-git
 ```
 main ones:
 ```bash
-	xorg-xhost neovim neovide kitty alacritty hyprlock mako waybar swaync swww swaylock-effects wofi wlogout xdg-desktop-portal-hyprland swappy grim slurp thunar btop floorp thunderbird mpv pamixer pavucontrol brightnessctl bluez bluez-utils blueman network-manager-applet gvfs thunar-archive-plugin file-roller starship papirus-icon-theme ttf-jetbrains-mono-nerd noto-fonts-emoji lxappearance xfce4-settings nwg-look-bin sddm hyprland-git hyprlang hyprprop-git hyprshot hyprlock-git hyprpicker-git xdg-desktop-portal-hyprland-git alacritty keyd swaync waybar mako yazi curl httpie curlie rofi-lbonn-wayland-git fuzzel pfetch bitwarden bitwarden-cli stow eza bat fd fzf zoxide dust ripgrep git-delta tmux gum spotify-launcher webcord acpi timeshift timeshift-autosnap otf-monaspace-nerd smartmontools stacer powertop xdg-user-dirs xdg-ninja
+xorg-xhost neovim neovide kitty alacritty hyprlock mako waybar swaync swww swaylock-effects wofi wlogout xdg-desktop-portal-hyprland swappy grim slurp thunar btop floorp thunderbird mpv pamixer pavucontrol brightnessctl bluez bluez-utils blueman network-manager-applet gvfs thunar-archive-plugin file-roller starship papirus-icon-theme ttf-jetbrains-mono-nerd noto-fonts-emoji lxappearance xfce4-settings nwg-look-bin sddm hyprland-git hyprlang hyprprop-git hyprshot hyprlock-git hyprpicker-git xdg-desktop-portal-hyprland-git alacritty keyd swaync waybar mako yazi curl httpie curlie rofi-lbonn-wayland-git fuzzel pfetch bitwarden bitwarden-cli stow eza bat fd fzf zoxide dust ripgrep git-delta tmux gum spotify-launcher webcord acpi timeshift timeshift-autosnap otf-monaspace-nerd smartmontools stacer powertop xdg-user-dirs xdg-ninja
 
 ```
 development
 ```bash
-	docker docker-compose github-cli glab visual-studio-code-bin lazygit lazydocker nodejs-lts-hydrogen pnpm npm esbuild go air-bin pgcli
+docker docker-compose github-cli glab visual-studio-code-bin lazygit lazydocker nodejs-lts-hydrogen pnpm npm esbuild go air-bin pgcli
 ```
